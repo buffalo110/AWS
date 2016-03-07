@@ -40,11 +40,11 @@ Then I can use
 to log in my instance.
 
 #### Setup GIT for web deployment and version control
-The only thing you need to run from the tutorial is:
+Install git by typing:
 
 	$ sudo apt-get install git
 	
-We are only pulling and pushing code to and from our repos on the NYU mHealth Github account.
+Then link to your own Git repos by cloning. 
 
 ##Tutorial 2:  
 This second tutorial will walk you through **installing of R and R studio**: http://randyzwitch.com/r-amazon-ec2/
