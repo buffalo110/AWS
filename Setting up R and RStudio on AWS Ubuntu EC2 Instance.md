@@ -6,7 +6,7 @@ This first tutorial will walk you through **setting up an Ubuntu instance on EC2
 **The following are some corrections to the tutorial listed above.** 
 
 #### Choose an Amazon Machine Image (AMI):
-Choose Ubuntu Server 14.04 LTS (HVM).
+Choose Ubuntu Server 14.04 LTS (HVM). (It might be smart to choose whatever on the top of the list because that's probably the most well maintained system. 
 ![AMI](Images/choose_ami.png)
 
 #### EC2 Security Group:  
